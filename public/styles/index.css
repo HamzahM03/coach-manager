@@ -1,0 +1,23 @@
+/* main.css */
+
+/* Add spacing between navbar items */
+.navbar-nav .nav-link {
+  margin-right: 15px;
+}
+
+/* Customize the hero section */
+.container .display-4 {
+  color: #0056b3; /* Custom primary color */
+}
+
+.container p.lead {
+  font-size: 1.25rem;
+  color: #333;
+}
+
+/* Footer Styling */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
